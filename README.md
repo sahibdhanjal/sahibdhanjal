@@ -1,6 +1,6 @@
 # Hi there, I am Sahib! 👋
 
-[![](https://img.shields.io/badge/Homepage-blue??&style=round-square&logo=google-chrome&logoColor=white)](https://sahibdhanjal.github.io/)
+[![](https://img.shields.io/badge/Portfolio-FB542B??&style=round-square&logo=Firefox&logoColor=white)](https://sahibdhanjal.github.io/)
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=round-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sYbUGw8AAAAJ)
 ![](https://img.shields.io/github/stars/sahibdhanjal)
 
