@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=round-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sYbUGw8AAAAJ)
 ![](https://img.shields.io/github/stars/sahibdhanjal)
 
-I'm currently a Software Engineer working with [Magic Leap](https://www.magicleap.com/) working on **3D Computer Vision**, **Deep Learning** and **Mathematical Optimization** algorithms to make Augmented Reality a more comfortable everyday experience. Prior to that, I was working on Localization and Mapping for Autonomous Vehicles at [Magna/Lyft](https://www.caranddriver.com/news/a19445506/lyft-and-magna-enter-long-term-deal-to-develop-self-driving-systems/) as a part of their joint venture.
+I'm currently a Perception Engineer working with [Magic Leap](https://www.magicleap.com/) on **3D Computer Vision**, **Deep Learning** and **Mathematical Optimization** algorithms to make eXtended Reality a more comfortable everyday experience. Prior to that, I was working with [Magna - Lyft L5](https://www.caranddriver.com/news/a19445506/lyft-and-magna-enter-long-term-deal-to-develop-self-driving-systems/) building multi-layered HD maps and deploying deep learning solutions for highly constrained environments.
 
 ### 🚀 Current Focus
 - 📚 3D Computer Vision, SLAM and Deep Learning for AR/VR/Self-Driving Cars
