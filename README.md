@@ -4,11 +4,10 @@
 [![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=round-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=sYbUGw8AAAAJ)
 ![](https://img.shields.io/github/stars/sahibdhanjal)
 
-I'm currently a Perception Engineer working with [Magic Leap](https://www.magicleap.com/) on **3D Computer Vision**, **Deep Learning** and **Mathematical Optimization** algorithms to make eXtended Reality a more comfortable everyday experience. Prior to that, I was working with [Magna - Lyft L5](https://www.caranddriver.com/news/a19445506/lyft-and-magna-enter-long-term-deal-to-develop-self-driving-systems/) building multi-layered HD maps and deploying deep learning solutions for highly constrained environments.
+I'm currently a Perception Engineer working with [General Motors]([https://www.magicleap.com/](https://www.gm.com/innovation/autonomous-driving)) on **3D Computer Vision**, **Deep Learning** and **Mathematical Optimization** algorithms to make eyes off autonomy a reality. Prior to that, I was working [Magic Leap - Google](https://www.magicleap.com/newsroom/magic-leap-showcases-ar-expertise-in-glasses-prototype-extends-google-partnership), and [Magna - Lyft L5](https://www.caranddriver.com/news/a19445506/lyft-and-magna-enter-long-term-deal-to-develop-self-driving-systems/) building eXtended reality glasses, and multi-layered HD maps and deploying deep learning solutions for highly constrained environments.
 
 ### 🚀 Current Focus
 - 📚 3D Computer Vision, SLAM and Deep Learning for AR/VR/Self-Driving Cars
-- 🌐 Building a collection of productivity tools on [Gumroad](https://sheetsbyboozie.gumroad.com/)
 - ✍🏻 Blogging about things I pick up along the way on [Medium](https://medium.com/@sahibdhanjal)
 
 ### 📬 Let's Connect
